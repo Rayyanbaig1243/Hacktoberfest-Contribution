@@ -39,9 +39,7 @@ We do not recommend adding just a white-space or Hello World application. Please
 - [Contributors](#contributors)
 
 ## Hacktoberfest
-
 ![Hacktoberfest](https://i.imgur.com/pZaosIp.png)
-
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a global challenge organized by DigitalOcean. It encourages participation in giving back to the open-source community by completing pull requests and participating in events. You can sign up anytime between 1 and October 31. Pull requests can be submitted to this repo or any opted-in GitHub or GitLab repo. To get a T-shirt :tshirt:, you must make 4 approved pull requests (PRs). :tada:
 
 [![Learn more](https://img.shields.io/badge/-Learn%20more-orange?style=plastic)](https://hacktoberfest.digitalocean.com/resources/participation)
